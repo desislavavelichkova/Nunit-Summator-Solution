@@ -4,7 +4,7 @@ COURSE CURRICULUM:
 
  - Unit Testing and Nunit
    # Summator Solution
-   # Calculator Solution
+   # Collections Solution
  - API Testing and REST
  - Selenium-Basics
  - Selenium Advanced and POM
